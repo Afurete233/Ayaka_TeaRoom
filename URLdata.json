@@ -101,5 +101,12 @@
         "color": "",
         "bgcolor": "",
         "icon": ""
-    }
+    },{
+        "title": "Mikan",
+        "api": "https://mikanani.me/Home/Search?searchstr=",
+        "mode": "1",
+        "color": "",
+        "bgcolor": "",
+        "icon": ""
+        }
 ]
