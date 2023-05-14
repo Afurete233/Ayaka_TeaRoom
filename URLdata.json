@@ -16,7 +16,7 @@
     },
     {
         "title": "樱花动漫",
-        "api": "http://www.yinghuacd.com/search/",
+        "api": "https://www.yhpdm.net/s_all?kw=",
         "mode": "1",
         "color": "",
         "bgcolor": "",
