@@ -1,6 +1,6 @@
 [{
         "title": "AgeFun",
-        "api": "https://www.agefans.com/detail/",
+        "api": "https://www.agemys.net/detail/",
         "mode": "0",
         "color": "",
         "bgcolor": "",
@@ -16,7 +16,7 @@
     },
     {
         "title": "樱花动漫",
-        "api": "https://www.yhpdm.net/s_all?kw=",
+        "api": "http://www.yinghuacd.com/search/",
         "mode": "1",
         "color": "",
         "bgcolor": "",
@@ -101,12 +101,5 @@
         "color": "",
         "bgcolor": "",
         "icon": ""
-    },{
-        "title": "Mikan",
-        "api": "https://mikanani.me/Home/Search?searchstr=",
-        "mode": "1",
-        "color": "",
-        "bgcolor": "",
-        "icon": ""
-        }
+    }
 ]
