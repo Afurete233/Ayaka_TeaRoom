@@ -1,0 +1,94 @@
+[{
+        "updatetime": "2024/3/2",
+        "version": "Ayaka_TeaRoomV3.8",
+        "info_delete": [],
+        "info_fix": [
+            "优化界面"
+        ],
+        "info_add": [
+            "视频列表可以在本站点开了"
+        ]
+    },
+    {
+        "updatetime": "2023/7/29",
+        "version": "Ayaka_TeaRoomV3.7",
+        "info_delete": [
+            "视频播放连接被加密了,不能直接放视频了"
+        ],
+        "info_fix": [
+            "api更新了"
+        ],
+        "info_add": []
+    },
+    {
+        "updatetime": "2023/5/14",
+        "version": "Ayaka_TeaRoomV3.6",
+        "info_delete": [],
+        "info_fix": [],
+        "info_add": [
+            "视频可以在本站播放"
+        ]
+    },
+    {
+        "updatetime": "2023/5/8",
+        "version": "Ayaka_TeaRoomV3.5",
+        "info_delete": [],
+        "info_fix": [
+            "api更新了"
+        ],
+        "info_add": []
+    },
+    {
+        "updatetime": "2022/12/28",
+        "version": "Ayaka_TeaRoomV3.4",
+        "info_delete": [],
+        "info_fix": [
+            "重写番剧源选择"
+        ],
+        "info_add": [
+            "拖动提示(灵动条)",
+            "更多的番剧地址"
+        ]
+    },
+    {
+        "updatetime": "2022/12/17",
+        "version": "Ayaka_TeaRoomV3.3",
+        "info_delete": [],
+        "info_fix": [
+            "收藏页面数据读取错误问题"
+        ],
+        "info_add": []
+    },
+    {
+        "updatetime": "2022/10/18",
+        "version": "Ayaka_TeaRoomV3.2",
+        "info_delete": [],
+        "info_fix": [
+            "空白位置bug",
+            "弹窗被黑色遮挡bug",
+            "收藏拖动消失空白bug",
+            "收藏数字显示bug"
+        ],
+        "info_add": []
+    },
+    {
+        "updatetime": "2022/8/23",
+        "version": "Ayaka_TeaRoomV3.1",
+        "info_delete": [],
+        "info_fix": [],
+        "info_add": [
+            "留言功能"
+        ]
+    },
+    {
+        "updatetime": "2022/8/20",
+        "version": "Ayaka_TeaRoomV3.0",
+        "info_delete": [],
+        "info_fix": [
+            "拖拽错误bug"
+        ],
+        "info_add": [
+            "多平台资源"
+        ]
+    }
+]
