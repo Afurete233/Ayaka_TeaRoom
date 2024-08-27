@@ -1,4 +1,14 @@
-[{
+[
+    {
+        "updatetime": "2024/8/28",
+        "version": "Ayaka_TeaRoomV3.9",
+        "info_delete": [],
+        "info_fix": [
+            "重新使用静态，不再使用服务器，需要跨域插件"
+        ],
+        "info_add": []
+    },
+    {
         "updatetime": "2024/3/2",
         "version": "Ayaka_TeaRoomV3.8",
         "info_delete": [],
