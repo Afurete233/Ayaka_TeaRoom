@@ -15,8 +15,8 @@
         "icon": ""
     },
     {
-        "title": "樱花动漫",
-        "api": "http://www.yinghuacd.com/search/",
+        "title": "稀饭动漫",
+        "api": "https://dick.xfani.com/search.html?wd=",
         "mode": "1",
         "color": "",
         "bgcolor": "",
